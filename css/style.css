@@ -1,0 +1,9 @@
+body {
+  background: color #ff0;
+}
+body div {
+  background-color: #091d63;
+  padding: 1rem;
+  font-size: 3rem;
+  color: #fff;
+}
