@@ -6,7 +6,7 @@ Basic example of Gulp workflow for beginners
 npm install --global gulp-cli
 ```
 
-## Download or Git clone, then run below in the project root
+## Download or Git clone the master branch, then run below in the project root
 ```
  npm i 
 ```
